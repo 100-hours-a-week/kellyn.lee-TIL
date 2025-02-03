@@ -1,2 +1,2 @@
-## 💻 Today I Learned
+### 💻 Today I Learned
 # week 2
