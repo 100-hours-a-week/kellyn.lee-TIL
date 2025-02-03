@@ -1,2 +1,2 @@
 # kellyn.lee-TIL
-:bust_in_silhouette:
+💻 Today I Learned
