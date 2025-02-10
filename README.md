@@ -9,7 +9,6 @@
 - 📅  [25-02-07 (금)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-07%20Fri.md) - Deep Dive
 - 📅  [25-02-08 (토)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-08%20Sat.md) - Linear Algbra part1
 
----
 
 ## == week 3 ==
 
