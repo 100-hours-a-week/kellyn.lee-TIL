@@ -14,7 +14,7 @@
 ## == week 3 ==
 
 - 📅  [25-02-10 (월)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-10%20Mon.md) - Data Visualization Lecture
-- 📅  [25-02-11  (화)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-11%20Tue.md) - Kakao Krampoline IDE
+- 📅  [25-02-11 (화)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-11%20Tue.md) - Kakao Krampoline IDE
 - 📅  [25-02-12 (수)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-12%20Wed.md) - SciPy (in-depth) : Normal Distribution
 - 📅  [25-02-13 (목)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-13%20Thu.md) - SciPy (in-depth) : Hypothesis Testing
 - 📅  [25-02-14 (금)]() - Deep Dive
