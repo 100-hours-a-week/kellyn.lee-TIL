@@ -25,7 +25,7 @@
 ## == week4 == 
 
 - 📅  [25-02-17 (월)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-17%20Mon.md) - Multivariable Calculus
-- 📅  [25-02-18 (화)]() - ML Lecture
+- 📅  [25-02-18 (화)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-18%20Tue.md) - ML Lecture
 
 
 
