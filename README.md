@@ -26,6 +26,7 @@
 
 - 📅  [25-02-17 (월)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-17%20Mon.md) - Multivariable Calculus & Conditional Probability
 - 📅  [25-02-18 (화)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-18%20Tue.md) - ML Lecture
+- 📅  [25-02-19 (수)]() - Additional from yesterday's Lecture
 
 
 
