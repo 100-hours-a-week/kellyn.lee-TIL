@@ -27,7 +27,7 @@
 - 📅  [25-02-17 (월)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-17%20Mon.md) - Multivariable Calculus & Conditional Probability
 - 📅  [25-02-18 (화)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-18%20Tue.md) - ML Lecture
 - 📅  [25-02-19 (수)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-19%20Wed.md) - CLT (Central Limit Theorem)
-- 📅  [25-02-20 (목)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-20%20Thu.md) - Fast API
+- 📅  [25-02-20 (목)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-20%20Thu.md) - FastAPI
 - 📅  [25-02-21 (금)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-21%20Fri.md) - Deep Dive
 - 📅  [25-02-22 (토)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-22%20Sat.md) - Linear Algebra part3
 
