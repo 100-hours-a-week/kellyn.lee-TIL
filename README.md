@@ -34,7 +34,7 @@
 
 
 ## == week5 ==
-- 📅  [25-02-24 (월)]() - Deep Learning part1
+- 📅  [25-02-24 (월)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-24%20Mon.md) - Deep Learning part1
 - 📅  [25-02-25 ~ 28 (화~금)]() - Ideathon & Hackathon
 
 
