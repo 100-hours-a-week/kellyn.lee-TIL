@@ -33,5 +33,12 @@
 
 
 
+## == week5 ==
+- 📅  [25-02-24 (월)]() - Deep Learning part1
+- 📅  [25-02-25 ~ 28 (화~금)]() - Ideathon & Hackathon
+
+
+
+
 
 
