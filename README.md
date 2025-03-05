@@ -40,8 +40,8 @@
 
 
 ## == week6 ==
-- 📅  [25-03-04 (화)]() - Deep Learning part2
-- 📅  [25-03-05 (수)]() - Additional DL : Early Stopping & Hyperparameter Tuning
+- 📅  [25-03-04 (화)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/March/25-03-04%20Tue.md) - Deep Learning part2
+- 📅  [25-03-05 (수)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/March/25-03-05%20Wed.md) - Additional DL : Early Stopping & Hyperparameter Tuning
 
 
 
