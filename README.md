@@ -41,7 +41,7 @@
 
 ## == week6 ==
 - 📅  [25-03-04 (화)]() - Deep Learning part2
-- 📅  [25-03-05 (수)]() - Early Stopping & Hyperparameter Tuning
+- 📅  [25-03-05 (수)]() - Additional DL : Early Stopping & Hyperparameter Tuning
 
 
 
