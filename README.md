@@ -49,7 +49,10 @@
 
 
 ## == week7 ===
-- 📅  [25-03-10 (월)]() - Generative AI
+- 📅  [25-03-10 (월)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/March/25-03-10%20Mon.md) - Generative AI
+
+
+
 
 
 
