@@ -52,10 +52,14 @@
 
 
 
-## == week7 ===
+## == week7 ==
 - 📅  [25-03-10 (월)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/March/25-03-10%20Mon.md) - Generative AI part1
 - 📅  [25-03-11 (화)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/March/25-03-11%20Tue.md) - Generative AI part2
 
+
+
+## == week8 ==
+- 📅  [25-03-17 (월)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/March/25-03-17%20Mon.md) - Database part1
 
 
 
