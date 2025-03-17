@@ -29,7 +29,7 @@
 ## == week4 == 
 
 - 📅  [25-02-17 (월)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-17%20Mon.md) - Multivariable Calculus & Conditional Probability
-- 📅  [25-02-18 (화)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-18%20Tue.md) - ML Lecture
+- 📅  [25-02-18 (화)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-18%20Tue.md) - Machine Learning
 - 📅  [25-02-19 (수)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-19%20Wed.md) - CLT (Central Limit Theorem)
 - 📅  [25-02-20 (목)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-20%20Thu.md) - FastAPI
 - 📅  [25-02-21 (금)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-21%20Fri.md) - Deep Dive
@@ -38,13 +38,13 @@
 
 
 ## == week5 ==
-- 📅  [25-02-24 (월)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-24%20Mon.md) - DL part1 Lecture
+- 📅  [25-02-24 (월)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-24%20Mon.md) - Deep Learning part1
 - 📅  [25-02-25 ~ 28 (화~금)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25.02.25-28%20Tue-Fri.md) - Ideathon & Hackathon
 
 
 
 ## == week6 ==
-- 📅  [25-03-04 (화)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/March/25-03-04%20Tue.md) - DL part2 Lecture
+- 📅  [25-03-04 (화)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/March/25-03-04%20Tue.md) - Deep Learning part2
 - 📅  [25-03-05 (수)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/March/25-03-05%20Wed.md) - Additional DL : Early Stopping & Hyperparameter Tuning
 - 📅  [25-03-06 (목)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/March/25-03-06%20Thu.md) - TensorBoard
 - 📅  [25-03-07 (금)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/March/25-03-07%20Fri.md) - Coding Test
@@ -53,8 +53,8 @@
 
 
 ## == week7 ===
-- 📅  [25-03-10 (월)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/March/25-03-10%20Mon.md) - Generative AI part1 Lecture
-- 📅  [25-03-11 (화)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/March/25-03-11%20Tue.md) - Generative AI part2 Lecture
+- 📅  [25-03-10 (월)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/March/25-03-10%20Mon.md) - Generative AI part1
+- 📅  [25-03-11 (화)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/March/25-03-11%20Tue.md) - Generative AI part2
 
 
 
