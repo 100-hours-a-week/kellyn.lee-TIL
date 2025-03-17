@@ -1,5 +1,9 @@
 # 💻 Today I Learned
 
+※ 카카오테크 부트캠프 | 24.01.20 ~ 현재 진행중
+※ 9주차까지 강의로 진행, 이후에는 프로젝트 단계로 전환
+※ 진행된 강의 및 수업 내용을 기반으로, 해당 날짜의 할 일과 학습 내용을 정리한 TIL 페이지
+
 ## == week 2 == 
 
 - 📅  [25-02-03 (월)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-03%20Mon.md) - Tail Call
@@ -34,13 +38,13 @@
 
 
 ## == week5 ==
-- 📅  [25-02-24 (월)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-24%20Mon.md) - Deep Learning part1
+- 📅  [25-02-24 (월)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25-02-24%20Mon.md) - DL part1 Lecture
 - 📅  [25-02-25 ~ 28 (화~금)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/February/25.02.25-28%20Tue-Fri.md) - Ideathon & Hackathon
 
 
 
 ## == week6 ==
-- 📅  [25-03-04 (화)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/March/25-03-04%20Tue.md) - Deep Learning part2
+- 📅  [25-03-04 (화)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/March/25-03-04%20Tue.md) - DL part2 Lecture
 - 📅  [25-03-05 (수)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/March/25-03-05%20Wed.md) - Additional DL : Early Stopping & Hyperparameter Tuning
 - 📅  [25-03-06 (목)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/March/25-03-06%20Thu.md) - TensorBoard
 - 📅  [25-03-07 (금)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/March/25-03-07%20Fri.md) - Coding Test
@@ -49,8 +53,8 @@
 
 
 ## == week7 ===
-- 📅  [25-03-10 (월)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/March/25-03-10%20Mon.md) - Generative AI part1
-- 📅  [25-03-11 (화)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/March/25-03-11%20Tue.md) - Generative AI part2
+- 📅  [25-03-10 (월)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/March/25-03-10%20Mon.md) - Generative AI part1 Lecture
+- 📅  [25-03-11 (화)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/March/25-03-11%20Tue.md) - Generative AI part2 Lecture
 
 
 
