@@ -59,8 +59,8 @@
 
 
 ## == week8 ==
-- 📅  [25-03-17 (월)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/March/25-03-17%20Mon.md) - Database part1
-- 📅  [25-03-18 (화)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/March/25-03-18%20Tue.md) - Database part2
+- 📅  [25-03-17 (월)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/March/25-03-17%20Mon.md) - Database part1 : RDBMS, Normalization, SQL, JOIN
+- 📅  [25-03-18 (화)](https://github.com/100-hours-a-week/kellyn.lee-TIL/blob/main/March/25-03-18%20Tue.md) - Database part2 : View, ERD, Tree, Index
 
 
 
